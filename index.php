@@ -5,7 +5,7 @@
 </head>
 <body>
     <?php 
-    echo "Belajar Kakas Pengembangan Perangkat Lunak!";
+    echo "Praktikum Kakas Pengembangan Perangkat Lunak!";
     echo "Irma Suriani S (60900120043)";
      ?>
 </body>
